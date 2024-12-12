@@ -1,0 +1,152 @@
+{
+    "nav": {
+        "apps": "لوحة التحكم",
+        "appsProject": {
+            "archivedNotes": "الملاحظات المؤرشفة",
+            "clinics": "العيادات",
+            "allNotes": "لوحة القيادة",
+            "projectList": "قائمة الصالونات",
+            "categoryList": "قائمة الأصناف",
+            "clinicsList": "قائمة العيادات",
+            "scrumBoard": "مجلس سكرم",
+            "issue": "القضية"
+        },
+        "appsCrm": {
+            "crm": "إدارة طاقم العمل",
+            "dashboard": "لوحة القيادة",
+            "calendar": "تقويم",
+            "customers": "طاقم العمل",
+            "customerDetails": "تفاصيل المستخدم",
+            "mail": "بريد"
+        },
+        "appsBook": {
+            "book": "الحجوزات",
+            "bookings": "قائمة الحجوزات"
+
+        },
+        "notes": {
+            "sales": "الاحصائيات",
+            "allNotes": "الملاحظات",
+            "productList": "قائمة المنتجات",
+            "productEdit": "المنتج تحرير",
+            "productNew": "أضف منتج",
+            "orderList": "لائحة الطلبات",
+            "orderDetails": "تفاصيل الطلب"
+        },
+        "appsCrypto": {
+            "crypto": "التشفير",
+            "dashboard": "لوحة القيادة",
+            "portfolio": "محفظة التشفير",
+            "market": "سوق",
+            "wallets": "محافظ التشفير"
+        },
+        "appsknowledgeBase": {
+            "knowledgeBase": "الأسئلة الأكثر شيوعا",
+            "helpCenter": "مركز المساعدة",
+            "article": "مقالة - سلعة",
+            "manageArticles": "إدارة المقالات",
+            "editArticle": "تحرير صفحة FAQ",
+            "manageFAQs": "إدارة الأسئلة الأكثر شيوعا"
+        },
+        "appsAccount": {
+            "account": "الحساب",
+            "settings": "الإعدادات",
+            "invoice": "فاتورة",
+            "activityLog": "سجل الإشعارات",
+            "kycForm": "نموذج kyc"
+        },
+        "uiComponents": "مكونات واجهة المستخدم",
+        "uiComponentsCommon": {
+            "common": "مشترك",
+            "grid": "شبكة",
+            "button": "زر",
+            "typography": "الطباعة",
+            "icons": "الرموز"
+        },
+        "uiComponentsFeeback": {
+            "feedback": "استجابة",
+            "alert": "إنذار",
+            "dialog": "الحوار",
+            "drawer": "الدرج",
+            "progress": "تقدم",
+            "skeleton": "هيكل عظمي",
+            "spinner": "الدوار",
+            "toast": "خبز محمص"
+        },
+        "uiComponentsDataDisplay": {
+            "dataDisplay": "عرض البيانات",
+            "avatar": "الصورة الرمزية",
+            "badge": "شارة",
+            "calendar": "تقويم",
+            "cards": "البطاقات",
+            "table": "ملزمة",
+            "tag": "بطاقة شعار",
+            "timeline": "الجدول الزمني",
+            "tooltip": "تلميح"
+        },
+        "uiComponentsForms": {
+            "forms": "نماذج",
+            "checkbox": "خانة الاختيار",
+            "datePicker": "منتقي التاريخ",
+            "formControl": "التحكم بالشكل",
+            "input": "الإدخال",
+            "inputGroup": "مجموعة الإدخال",
+            "radio": "صندوق واحد",
+            "segment": "مقطع",
+            "select": "محدد",
+            "switcher": "الجلاد",
+            "timeInput": "إدخال الوقت",
+            "upload": "تحميل"
+        },
+        "uiComponentsNavigation": {
+            "navigation": "ارشاد",
+            "dropdown": "اسقاط",
+            "menu": "قائمة الطعام",
+            "pagination": "ترقيم الصفحات",
+            "steps": "خطوات",
+            "tabs": "نوافذ التبويب"
+        },
+        "uiComponentsGraph": {
+            "graph": "رسم بياني",
+            "charts": "الرسوم البيانية",
+            "maps": "خرائط"
+        },
+        "pages": {
+            "pages": "معرض الأعمال",
+            "welcome": "أهلا بك",
+            "accessDenied": "تم الرفض",
+            "editPage": "تعديل الصفحات",
+            "managePages": "قائمة الأعمال"
+        },
+        "authentication": {
+            "authentication": "المصادقة",
+            "signIn": "تسجيل الدخول",
+            "signInSimple": "بسيط",
+            "signInSide": "جانب",
+            "signInCover": "التغطية",
+            "signUp": "اشتراك",
+            "signUpSimple": "بسيط",
+            "signUpSide": "جانب",
+            "signUpCover": "التغطية",
+            "forgotPassword": "هل نسيت كلمة السر",
+            "forgotPasswordSimple": "بسيط",
+            "forgotPasswordSide": "جانب",
+            "forgotPasswordCover": "التغطية",
+            "resetPassword": "إعادة تعيين كلمة المرور",
+            "resetPasswordSimple": "بسيط",
+            "resetPasswordSide": "جانب",
+            "resetPasswordCover": "التغطية"
+        },
+        "docs": {
+            "guide": "يرشد",
+            "documentation": "توثيق",
+            "sharedComponentDoc": "مكون مشترك",
+            "utilsDoc": "المرافق",
+            "changeLog": "سجل التغيير"
+        },
+        "banners": {
+            "banner": "العروض",
+            "manageBanners": "قائمة العروض"
+        }
+    }
+}

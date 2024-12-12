@@ -1,0 +1,152 @@
+{
+    "nav": {
+        "apps": "Notes Taker",
+        "appsProject": {
+            "archivedNotes": "Archived Notes",
+            "clinics": "Clinics",
+            "dashboard": "Dashboard",
+            "projectList": "Saloons List",
+            "categoryList": "Categories List",
+            "clinicsList": "Clinics List",
+            "scrumBoard": "Scrum Board",
+            "issue": "Issue"
+        },
+        "appsCrm": {
+            "crm": "Staff",
+            "dashboard": "Dashboard",
+            "calendar": "Calendar",
+            "customers": "Staff List",
+            "customerDetails": "User Details",
+            "mail": "Mail"
+        },
+        "appsBook": {
+            "book": "Bookings",
+            "bookings": "Bookings List"
+
+        },
+        "notes": {
+            "sales": "Statistics",
+            "allNotes": "All Notes",
+            "productList": "Product List",
+            "productEdit": "Product Edit",
+            "productNew": "New Product",
+            "orderList": "Order List",
+            "orderDetails": "Order Details"
+        },
+        "appsCrypto": {
+            "crypto": "Crypto",
+            "dashboard": "Dashboard",
+            "portfolio": "Portfolio",
+            "market": "Market",
+            "wallets": "Wallets"
+        },
+        "appsknowledgeBase": {
+            "knowledgeBase": "FAQ",
+            "helpCenter": "Help Center",
+            "article": "Article",
+            "manageArticles": "Manage FAQs",
+            "editArticle": "Edit Article",
+            "manageFAQs": "Manage FAQs"
+        },
+        "appsAccount": {
+            "account": "Account",
+            "settings": "Settings",
+            "invoice": "Invoice",
+            "activityLog": "Notifications",
+            "kycForm": "KYC Form"
+        },
+        "uiComponents": "UI Components",
+        "uiComponentsCommon": {
+            "common": "Common",
+            "grid": "Grid",
+            "button": "Button",
+            "typography": "Typography",
+            "icons": "Icons"
+        },
+        "uiComponentsFeeback": {
+            "feedback": "Feedback",
+            "alert": "Alert",
+            "dialog": "Dialog",
+            "drawer": "Drawer",
+            "progress": "Progress",
+            "skeleton": "Skeleton",
+            "spinner": "Spinner",
+            "toast": "Toast"
+        },
+        "uiComponentsDataDisplay": {
+            "dataDisplay": "Data Display",
+            "avatar": "Avatar",
+            "badge": "Badge",
+            "calendar": "Calendar",
+            "cards": "Cards",
+            "table": "Table",
+            "tag": "Tag",
+            "timeline": "Timeline",
+            "tooltip": "Tooltip"
+        },
+        "uiComponentsForms": {
+            "forms": "Forms",
+            "checkbox": "Checkbox",
+            "datePicker": "Date Picker",
+            "formControl": "Form Control",
+            "input": "Input",
+            "inputGroup": "Input Group",
+            "radio": "Radio",
+            "segment": "Segment",
+            "select": "Select",
+            "switcher": "Switcher",
+            "timeInput": "Time Input",
+            "upload": "Upload"
+        },
+        "uiComponentsNavigation": {
+            "navigation": "Navigation",
+            "dropdown": "Dropdown",
+            "menu": "Menu",
+            "pagination": "Pagination",
+            "steps": "Steps",
+            "tabs": "Tabs"
+        },
+        "uiComponentsGraph": {
+            "graph": "Graph",
+            "charts": "Charts",
+            "maps": "Maps"
+        },
+        "pages": {
+            "pages": "Work Gallery",
+            "welcome": "Welcome",
+            "accessDenied": "Access Denied",
+            "editPage": "Edit Pages",
+            "managePages": "Gallery"
+        },
+        "authentication": {
+            "authentication": "Authentication",
+            "signIn": "Sign In",
+            "signInSimple": "Simple",
+            "signInSide": "Side",
+            "signInCover": "Cover",
+            "signUp": "Sign Up",
+            "signUpSimple": "Simple",
+            "signUpSide": "Side",
+            "signUpCover": "Cover",
+            "forgotPassword": "Forgot Password",
+            "forgotPasswordSimple": "Simple",
+            "forgotPasswordSide": "Side",
+            "forgotPasswordCover": "Cover",
+            "resetPassword": "Reset Password",
+            "resetPasswordSimple": "Simple",
+            "resetPasswordSide": "Side",
+            "resetPasswordCover": "Cover"
+        },
+        "docs": {
+            "guide": "Guide",
+            "documentation": "Documentation",
+            "sharedComponentDoc": "Shared Component",
+            "utilsDoc": "Utilities",
+            "changeLog": "Changelog"
+        },
+        "banners": {
+            "banner": "Offers",
+            "manageBanners": "Offers List"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+@import "./assets/styles/app.css";
+
+* {
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+}
